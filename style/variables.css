@@ -1,0 +1,36 @@
+:root {
+    /* BG */
+
+    --primary-bg : linear-gradient(darkcyan, magenta);
+    --secondary-bg : pink ;
+    --main-bg: #100202; 
+    --footer-bg: #333;
+ 
+
+    /* colors */
+    --primary-text : aliceblue ; 
+    --secondary-text : whitesmoke;  
+
+    /* fs */
+
+    --font-size-xl : 3rem; 
+    --font-size-l : 2rem; 
+    --font-size-m : 1.4rem; 
+    --font-size-s : 1rem;
+
+    /* margin */
+
+    --margin-xl : 3rem; 
+    --margin-l : 2rem; 
+    --margin-m : 1.4rem; 
+    --margin-s : 1rem; 
+
+    /* padding */
+
+    --padding-xl : 3rem; 
+    --padding-l : 2rem; 
+    --padding-m : 1.4rem; 
+    --padding-s : 1rem; 
+
+}; 
+
